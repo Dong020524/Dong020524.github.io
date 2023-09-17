@@ -6,16 +6,16 @@
         <description>Recent content on ZHANG Shuo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 16 Sep 2023 22:51:55 +0800</lastBuildDate><atom:link href="https://dong020524.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 17 Sep 2023 06:40:30 +0800</lastBuildDate><atom:link href="https://dong020524.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Contact</title>
         <link>https://dong020524.github.io/posts/contact/</link>
         <pubDate>Sat, 16 Sep 2023 20:54:12 +0800</pubDate>
         
         <guid>https://dong020524.github.io/posts/contact/</guid>
-        <description>&lt;p&gt;email         &lt;a class=&#34;link&#34; href=&#34;mailto:szhang@lsec.cc.ac.cn&#34; &gt;szhang@lsec.cc.ac.cn&lt;/a&gt;.&lt;br&gt;
-website     &lt;a class=&#34;link&#34; href=&#34;http://lsec.cc.an.cn/~szhang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <description>&lt;p&gt;&lt;strong&gt;email&lt;/strong&gt;         &lt;a class=&#34;link&#34; href=&#34;mailto:szhang@lsec.cc.ac.cn&#34; &gt;szhang@lsec.cc.ac.cn&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;website&lt;/strong&gt;     &lt;a class=&#34;link&#34; href=&#34;http://lsec.cc.an.cn/~szhang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;http://lsec.cc.an.cn/~szhang/&lt;/a&gt;.&lt;br&gt;
-tel             +86-10-82541578&lt;/p&gt;
+&lt;strong&gt;tel&lt;/strong&gt;             +86-10-82541578&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -24,11 +24,9 @@ tel             +86-10-82541578&lt;/p&gt;
         <pubDate>Sat, 16 Sep 2023 22:51:27 +0800</pubDate>
         
         <guid>https://dong020524.github.io/posts/education/</guid>
-        <description>&lt;p&gt;Aug 2008 - Aug 2009, &lt;strong&gt;Postdoctoral Research Associate&lt;/strong&gt;, Department of Mathematics, Pennsylvania State University, USA.&lt;/p&gt;
-&lt;p&gt;Mentor: Professor Jinchao Xu.&lt;/p&gt;
-&lt;p&gt;Sep 2003 - Jun 2008, &lt;strong&gt;Graduate student&lt;/strong&gt;, School of Mathematical Sciences, Peking University, China.&lt;/p&gt;
-&lt;p&gt;Doctor supervisors: Professors Ming Wang and Zhiping Li.&lt;/p&gt;
-&lt;p&gt;Sep 1999 - Jun 2003, &lt;strong&gt;Undergraduate student&lt;/strong&gt;, School of Mathematical Sciences, Shandong University, China.&lt;/p&gt;
+        <description>&lt;p&gt;Aug 2008 - Aug 2009, &lt;strong&gt;Postdoctoral Research Associate&lt;/strong&gt;, &lt;em&gt;Department of Mathematics&lt;/em&gt;, Pennsylvania State University, USA. Mentor: Professor Jinchao Xu.&lt;/p&gt;
+&lt;p&gt;Sep 2003 - Jun 2008, &lt;strong&gt;Graduate student&lt;/strong&gt;, &lt;em&gt;School of Mathematical Sciences&lt;/em&gt;, Peking University, China. Doctor supervisors: Professors Ming Wang and Zhiping Li.&lt;/p&gt;
+&lt;p&gt;Sep 1999 - Jun 2003, &lt;strong&gt;Undergraduate student&lt;/strong&gt;, &lt;em&gt;School of Mathematical Sciences&lt;/em&gt;, Shandong University, China.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -37,7 +35,101 @@ tel             +86-10-82541578&lt;/p&gt;
         <pubDate>Sat, 16 Sep 2023 22:51:55 +0800</pubDate>
         
         <guid>https://dong020524.github.io/posts/profrssional/</guid>
-        <description></description>
+        <description>&lt;p&gt;Jan 2020 - &lt;strong&gt;Schoolteacher&lt;/strong&gt;, University of Chinese Academy of Sciences, China.&lt;/p&gt;
+&lt;p&gt;July 2018 - &lt;strong&gt;Certified teacher for universities&lt;/strong&gt;, Certification no.: 20181100171005778.&lt;/p&gt;
+&lt;p&gt;Aug 2013 - Aug 2014 &lt;strong&gt;Visiting scholar&lt;/strong&gt;, &lt;em&gt;Department of Mathematics&lt;/em&gt;, The pennsylvania State University, USA. Host: Professor Jinchao Xu&lt;/p&gt;
+&lt;p&gt;Aug 2009 - &lt;strong&gt;Assistant professor, Associate professor&lt;/strong&gt;, &lt;em&gt;Academy of Mathematics and System Sciences&lt;/em&gt;, Chinese Academy of Sciences, China.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Funds and Projects</title>
+        <link>https://dong020524.github.io/posts/funds/</link>
+        <pubDate>Sun, 17 Sep 2023 06:39:08 +0800</pubDate>
+        
+        <guid>https://dong020524.github.io/posts/funds/</guid>
+        <description>&lt;p&gt;PI &lt;strong&gt;NSFC Program&lt;/strong&gt;, &lt;em&gt;&amp;ldquo;Low-degree optimal finite element methods of non-Ciarlet type on unstructured grids&amp;rdquo;&lt;/em&gt;, (NSFC 12271512, 2023-2026).&lt;/p&gt;
+&lt;p&gt;PI &lt;strong&gt;NSFC Program&lt;/strong&gt;, &lt;em&gt;&amp;ldquo;Asymptotically structure-preserving order-reduced computational methods for fourth-order elliptic partial differential equations and related problems&amp;rdquo;&lt;/em&gt;, (NSFC 11871465, 2019-2022).&lt;/p&gt;
+&lt;p&gt;PI &lt;strong&gt;NSFC Program&lt;/strong&gt;, &lt;em&gt;&amp;ldquo;Finite element methods for elastic strain gradient problems&amp;rdquo;&lt;/em&gt;, (NSFC 11471026, 2015-2018).&lt;/p&gt;
+&lt;p&gt;PI &lt;strong&gt;NSFC Program&lt;/strong&gt;, &lt;em&gt;&amp;ldquo;Optimal solvers for finite element system of fourth order problems&amp;rdquo;&lt;/em&gt;, (NSFC 11101415, 2012-2014).&lt;/p&gt;
+&lt;p&gt;PI &lt;strong&gt;Scientific Research Foundation for the Returned Overseas Chinese Scholars, State Education Ministry Program&lt;/strong&gt;, &lt;em&gt;&amp;ldquo;Effective fast finite element methods for fourth order partial differential equation&amp;rdquo;&lt;/em&gt;, (Grant NO. Y390041G23).&lt;/p&gt;
+&lt;p&gt;Ptcp &lt;strong&gt;Strategic Priority Research Program of Chinese Academy of Sciences&lt;/strong&gt;, &lt;em&gt;&amp;ldquo;Formation, Evolution and Habitability of Terrestrial Planets&amp;rdquo;&lt;/em&gt;, (XDB 41000000, 2020-2024).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Activities organised</title>
+        <link>https://dong020524.github.io/posts/activity/</link>
+        <pubDate>Sun, 17 Sep 2023 06:40:03 +0800</pubDate>
+        
+        <guid>https://dong020524.github.io/posts/activity/</guid>
+        <description>&lt;p&gt;Aug 28-29, 2023 &lt;strong&gt;Progress in Finite Element and Galerkin-type Methods&lt;/strong&gt;, MS in the Jing-Jin-Ji plus Conference on Computational Mathematics, Taiyuan, China, co-organizer.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Publications</title>
+        <link>https://dong020524.github.io/posts/publications/</link>
+        <pubDate>Sun, 17 Sep 2023 06:40:30 +0800</pubDate>
+        
+        <guid>https://dong020524.github.io/posts/publications/</guid>
+        <description>&lt;p&gt;(ORCID ID: 0000-0001-5490-5401) (*:corresponding author)&lt;/p&gt;
+&lt;p&gt;[Representative works]&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt;, &lt;em&gt;An optimal piecewise cubic nonconforming finite element scheme for the planar binarmonic equation on general triangulation&lt;/em&gt;, Science China Mathematics, &lt;strong&gt;64&lt;/strong&gt;(2021) 2579-2602.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt;, &lt;em&gt;Minimal consistent finite element space for the biharmonic equation on quadrilateral grids&lt;/em&gt;, IMA Journal of Numerical Analysis, &lt;strong&gt;40&lt;/strong&gt;(2020), no. 2, 1390-1406.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt;, &lt;em&gt;Regular decomposition and a framework of order reduced methods for fourth-order problems&lt;/em&gt;, Numerische Mathematik, &lt;strong&gt;138&lt;/strong&gt;(2018), 241-271.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt;, &lt;em&gt;Mixed schemes for quad-curl equations&lt;/em&gt;, ESAIM: Mathematical Modelling and Numerical Analysis, &lt;strong&gt;52&lt;/strong&gt;(2018) 147-161.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt;, &lt;em&gt;Stable finite element pair for Stokes problem and discrete Stokes complex on quadrilateral grids&lt;/em&gt;, Numerische Mathematik &lt;strong&gt;133&lt;/strong&gt;(2016), 371-408.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt; &amp;amp; Jinchao Xu: &lt;em&gt;Optimal solvers for fourth-order PDEs discretized on unstructured grids&lt;/em&gt;, SIAM Journal on Numerical Analysis, &lt;strong&gt;52&lt;/strong&gt;(2014), 282-307.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z.&lt;/strong&gt; &amp;amp; Ming Wang: &lt;em&gt;A nonconforming finite element method for the Cahn-Hilliard equation&lt;/em&gt;, Journal of Computational Physics &lt;strong&gt;229&lt;/strong&gt;(2010), 7361-7372.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;[highlight papers]&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Yingxia Xi, Xia Ji, &lt;strong&gt;Z.&lt;/strong&gt;*: &lt;em&gt;A multi-level mixed element scheme of the two dimensional Helmholtz transmission eigenvalue problem&lt;/em&gt;, IMA Journal of Numerical Analysis &lt;strong&gt;40&lt;/strong&gt;(2020), 686-707.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Winner of the First-Class Award of Excellent Youth Paper of Chinese Computational Mathematical Society. August, 2019. (by Y. Xi)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Z.&lt;/strong&gt;, Ming Wang: &lt;em&gt;A posterior estimator of nonconforming finite element method for fourth-order elliptic perturbation problems&lt;/em&gt;, Jurnal of Computational Mathematics &lt;strong&gt;26&lt;/strong&gt;(2008), 554-577.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Winner of the Second-Class Award of Excellent Youth Paper of Chinese Computational Mathematical Society. November, 2007.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Huilan Zeng, Chensong Zhang, &lt;strong&gt;Z.&lt;/strong&gt;*: &lt;em&gt;Optimal quadratic element on rectangular grids for $H^1$ problems&lt;/em&gt;, BIT Numerical Mathematics, &lt;strong&gt;61&lt;/strong&gt;(2021) 665-689.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Winner of the Second-Class Award of Excellent Youth Paper of Beijing Computational Mathematical Society. August, 2020. (by H. Zeng)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[Original peer-review papers]&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Huilan Zeng, Chen-Song Zhang, &lt;strong&gt;Z.&lt;/strong&gt;*: &lt;em&gt;On the existence of locally-defined projective interpolations&lt;/em&gt;, Applied Mathematics Letters, &lt;strong&gt;accepted.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qing Liu, Tiexiang Li, &lt;strong&gt;Z.&lt;/strong&gt;: &lt;em&gt;A mixed element scheme of Helmholtz transmission eigenvalue problem for anisotropic media&lt;/em&gt;, Inverse Problem &lt;strong&gt;39&lt;/strong&gt;(2023), Paper No. 055005, 17 pp..&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wenjia Liu, &lt;strong&gt;Z.&lt;/strong&gt;*: &lt;em&gt;A lowest-degree strictly conservative finite element scheme for incompressible Stokes problem on general triangulations&lt;/em&gt;, Journal of Scientific Computing, &lt;strong&gt;93&lt;/strong&gt;(2022):28.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Huilan Zeng, Chen-Song Zhang, &lt;strong&gt;Z.&lt;/strong&gt;&lt;em&gt;: A low-degree strictly conservative finite element method for incompressible flows on general triangulations&lt;/em&gt;, SMAI Journal of Computational Mathematics, &lt;strong&gt;8&lt;/strong&gt;(2022), 225-248.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
         </item>
         
     </channel>
