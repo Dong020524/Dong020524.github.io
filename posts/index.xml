@@ -5,12 +5,11 @@
     <link>https://dong020524.github.io/posts/</link>
     <description>Recent content in Posts on ZHANG Shuo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 06:40:30 +0800</lastBuildDate><atom:link href="https://dong020524.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dong020524.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://dong020524.github.io/posts/contact/</link>
-      <pubDate>Sat, 16 Sep 2023 20:54:12 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dong020524.github.io/posts/contact/</guid>
       <description>email szhang@lsec.cc.ac.cn.
@@ -21,7 +20,7 @@ tel +86-10-82541578</description>
     <item>
       <title>Education</title>
       <link>https://dong020524.github.io/posts/education/</link>
-      <pubDate>Sat, 16 Sep 2023 22:51:27 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dong020524.github.io/posts/education/</guid>
       <description>Aug 2008 - Aug 2009, Postdoctoral Research Associate, Department of Mathematics, Pennsylvania State University, USA. Mentor: Professor Jinchao Xu.
@@ -32,7 +31,7 @@ Sep 1999 - Jun 2003, Undergraduate student, School of Mathematical Sciences, Sha
     <item>
       <title>Professional Experience</title>
       <link>https://dong020524.github.io/posts/profrssional/</link>
-      <pubDate>Sat, 16 Sep 2023 22:51:55 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dong020524.github.io/posts/profrssional/</guid>
       <description>Jan 2020 - Schoolteacher, University of Chinese Academy of Sciences, China.
@@ -44,7 +43,7 @@ Aug 2009 - Assistant professor, Associate professor, Academy of Mathematics and 
     <item>
       <title>Funds and Projects</title>
       <link>https://dong020524.github.io/posts/funds/</link>
-      <pubDate>Sun, 17 Sep 2023 06:39:08 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dong020524.github.io/posts/funds/</guid>
       <description>PI NSFC Program, &amp;ldquo;Low-degree optimal finite element methods of non-Ciarlet type on unstructured grids&amp;rdquo;, (NSFC 12271512, 2023-2026).
@@ -55,18 +54,9 @@ PI Scientific Research Foundation for the Returned Overseas Chinese Scholars, St
     </item>
     
     <item>
-      <title>Activities organised</title>
-      <link>https://dong020524.github.io/posts/activity/</link>
-      <pubDate>Sun, 17 Sep 2023 06:40:03 +0800</pubDate>
-      
-      <guid>https://dong020524.github.io/posts/activity/</guid>
-      <description>Aug 28-29, 2023 Progress in Finite Element and Galerkin-type Methods, MS in the Jing-Jin-Ji plus Conference on Computational Mathematics, Taiyuan, China, co-organizer.</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://dong020524.github.io/posts/publications/</link>
-      <pubDate>Sun, 17 Sep 2023 06:40:30 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dong020524.github.io/posts/publications/</guid>
       <description>(ORCID ID: 0000-0001-5490-5401) (*:corresponding author)
@@ -75,6 +65,15 @@ Z., An optimal piecewise cubic nonconforming finite element scheme for the plana
 Z., Minimal consistent finite element space for the biharmonic equation on quadrilateral grids, IMA Journal of Numerical Analysis, 40(2020), no. 2, 1390-1406.
 Z., Regular decomposition and a framework of order reduced methods for fourth-order problems, Numerische Mathematik, 138(2018), 241-271.
 Z., Mixed schemes for quad-curl equations, ESAIM: Mathematical Modelling and Numerical Analysis, 52(2018) 147-161.</description>
+    </item>
+    
+    <item>
+      <title>Activities organised</title>
+      <link>https://dong020524.github.io/posts/activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dong020524.github.io/posts/activity/</guid>
+      <description>Aug 28-29, 2023 Progress in Finite Element and Galerkin-type Methods, MS in the Jing-Jin-Ji plus Conference on Computational Mathematics, Taiyuan, China, co-organizer.</description>
     </item>
     
   </channel>
